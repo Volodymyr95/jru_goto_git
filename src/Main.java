@@ -3,6 +3,7 @@ public class Main {
     public static final int YEAR_JAVA_BIRTH = 1996;
 
     public static void main(String[] args) {
+
 //        System.out.println("Year\tPrice\tDescription");
 //        System.out.println("Hello\b\b\b");
 //        System.out.println("Hi Team!\nI am going to vacation\nCheers");
