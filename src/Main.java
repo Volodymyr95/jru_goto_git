@@ -4,20 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        System.out.println("Year\tPrice\tDescription");
-//        System.out.println("Hello\b\b\b");
-//        System.out.println("Hi Team!\nI am going to vacation\nCheers");
-//        System.out.println("Hello\f");
-//        System.out.println("Hello it\'s"); // => it's
-//        System.out.println("She: said : \"... \" ");
-//        System.out.println("Path to c:\\user\\disc"); // => c: \ user\disc
-//
-//
-//        String s = "Some value";
-//        s = "Another value";
-//        s += "!";
-//        System.out.println(s);
-//        String value = "Some value";
 
 //        for (int i = 0; i < 1000; i++) {
 //            String someValue = "Value";
