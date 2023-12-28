@@ -5,6 +5,19 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello world!".length());
+
+//        for (int i = 0; i < 1000; i++) {
+//            String someValue = "Value";
+//        }
+//        System.out.println("================");
+//        String hello = "Hello";
+//        String newHello = new String("Hello");
+//        System.out.println(hello == "Hello"); // == - порівнюю за посиланням
+//        System.out.println(newHello == "Hello");
+//        newHello.intern();
+//        System.out.println(newHello == "Hello");
+
+
         System.out.println("Hello world!".length());
         System.out.println(" ".isBlank());
         System.out.println(" ".isEmpty());
