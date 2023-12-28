@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello world!".length());
+        System.out.println("Hello world!".length());
         System.out.println(" ".isBlank());
         System.out.println(" ".isEmpty());
         System.out.println("abcd".charAt(0));
